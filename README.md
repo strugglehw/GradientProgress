@@ -1,5 +1,5 @@
 # GradientProgress
-swift实现的渐变颜色的圆环进度条
+swift 5实现的渐变颜色的圆环进度条
 实例：
 
         let gpView = GradientProgressView();
