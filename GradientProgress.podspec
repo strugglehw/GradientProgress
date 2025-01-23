@@ -27,7 +27,8 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'GradientProgress/Classes/**/*'
-  
+  s.swift_version = '5.0'
+
   # s.resource_bundles = {
   #   'GradientProgress' => ['GradientProgress/Assets/*.png']
   # }
