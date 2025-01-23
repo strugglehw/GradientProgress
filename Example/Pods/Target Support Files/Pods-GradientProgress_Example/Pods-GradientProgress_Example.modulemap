@@ -1,0 +1,6 @@
+framework module Pods_GradientProgress_Example {
+  umbrella header "Pods-GradientProgress_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

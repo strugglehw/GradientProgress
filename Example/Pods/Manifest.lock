@@ -1,0 +1,37 @@
+PODS:
+  - GradientProgress (0.1.0)
+  - RxCocoa (5.1.3):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.3):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.3)
+  - SnapKit (4.2.0)
+
+DEPENDENCIES:
+  - GradientProgress (from `../`)
+  - RxCocoa (= 5.1.3)
+  - RxSwift (= 5.1.3)
+  - SnapKit (= 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SnapKit
+
+EXTERNAL SOURCES:
+  GradientProgress:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GradientProgress: beb6890f66da30fc9aa731908df8edf0e16fad30
+  RxCocoa: e2ed092d5432e4296aa818021d27de4090ac0354
+  RxRelay: 5a18c2eb2d68326ebaf0112f80d837ae41b92b97
+  RxSwift: 915abbdfb62214aa89ccd0b194d44fb478019b27
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+
+PODFILE CHECKSUM: b16a5977a61f919136fef06c5e73840dda3102f8
+
+COCOAPODS: 1.16.2

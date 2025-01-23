@@ -1,0 +1,17 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'GradientProgress_Example' do
+  pod 'GradientProgress', :path => '../'
+
+  pod 'SnapKit', '4.2.0'
+  
+  pod 'RxSwift','5.1.3'
+  pod 'RxCocoa','5.1.3'
+  target 'GradientProgress_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
