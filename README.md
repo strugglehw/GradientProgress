@@ -28,7 +28,7 @@ atao, xintaoxxxx@163.com
 GradientProgress is available under the MIT license. See the LICENSE file for more info.
 
 swift 5实现的渐变颜色的圆环进度条
-实例：
+示例：
 
         let gpView = GradientProgressView();
         //默认是黑色，结合要用的情景设置背景
